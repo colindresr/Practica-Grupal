@@ -1,5 +1,4 @@
 # Practica-Grupal
-# Practica-Grupal
 
 ## Pasos para elaborar una pizza
 
